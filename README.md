@@ -1,2 +1,2 @@
 # SPAP
-The source code and datasets of paper "A New Method Combining Pattern Prediction And Preference Prediction For Next Basket Recommendation" by Guisheng Chen, Zhanshan Li, Haihong Yu
+The source code and datasets of paper "A New Method Combining Pattern Prediction And Preference Prediction For Next Basket Recommendation" by Guisheng Chen, Zhanshan Li
